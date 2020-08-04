@@ -1,0 +1,9 @@
+export const moduleName = 'auth';
+export const SIGN_UP_REQUEST = `${moduleName}/SIGN_UP_REQUEST`;
+export const SIGN_UP_SUCCESS = `${moduleName}/SIGN_UP_SUCCESS`;
+export const SIGN_UP_ERROR = `${moduleName}/SIGN_UP_ERROR`;
+export const SIGN_IN_REQUEST = `${moduleName}/SIGN_IN_REQUEST`;
+export const SIGN_IN_ERROR = `${moduleName}/SIGN_IN_ERROR`;
+export const SIGN_IN_SUCCESS = `${moduleName}/SIGN_IN_SUCCESS`;
+export const SIGN_OUT_REQUEST = `${moduleName}/SIGN_OUT_REQUEST`;
+export const SIGN_OUT_SUCCESS = `${moduleName}/SIGN_OUT_SUCCESS`;
